@@ -10,6 +10,7 @@ here are some point you should follow to use this.
 2. make to sure replace few things as per your needs.
 3. do make all the reqired files.
 4. and one important thing setup virtual enviroment in your terminal
+5. use updated_main.py for more precise and integrated ai functionality 
 
 for more details connect with me 
 linkedin :- https://www.linkedin.com/in/aryan-srivastav-174b93289/
